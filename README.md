@@ -1,4 +1,4 @@
 # wikipedia_viewer
-see work https://codepen.io/upanan82/full/kkZyAX/
+see work https://upanan82.github.io/wikipedia_viewer/
 
 © upanan82
