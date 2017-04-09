@@ -1,4 +1,2 @@
-# wikipedia_viewer
-see work https://upanan82.github.io/wikipedia_viewer/
-
-© upanan82
+# wikipedia-viewer
+Demo &nbsp;-&nbsp; https://upanan82.github.io/wikipedia-viewer/
